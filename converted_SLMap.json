@@ -1,0 +1,3 @@
+{
+    "raw_content": "<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>\n<qgis version=\"3.38.3-Grenoble\">\n  <identifier></identifier>\n  <parentidentifier></parentidentifier>\n  <language></language>\n  <type></type>\n  <title></title>\n  <abstract></abstract>\n  <links/>\n  <dates/>\n  <fees></fees>\n  <encoding></encoding>\n  <crs>\n    <spatialrefsys nativeFormat=\"Wkt\">\n      <wkt></wkt>\n      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>\n      <srsid>0</srsid>\n      <srid>0</srid>\n      <authid></authid>\n      <description></description>\n      <projectionacronym></projectionacronym>\n      <ellipsoidacronym></ellipsoidacronym>\n      <geographicflag>false</geographicflag>\n    </spatialrefsys>\n  </crs>\n  <extent/>\n</qgis>\n"
+}
